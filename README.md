@@ -9,3 +9,6 @@ Part List:
 - PS2 Bluetooth
 - Base Robot
 
+- Youtube
+ https://youtube.com/shorts/v0hvVUM3us8?feature=share
+
