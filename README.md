@@ -9,4 +9,4 @@ Part List:
 - PS2 Bluetooth 
 
 Skematic:
-[Uploading RC.png…]()
+![RC.png…]()
