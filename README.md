@@ -6,5 +6,6 @@ Part List:
 - Shield Arduino Uno
 - L298N Driver Motor
 - Motor DC + Wheel
-- PS2 Bluetooth 
+- PS2 Bluetooth
+- Base Robot
 
