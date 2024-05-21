@@ -8,5 +8,3 @@ Part List:
 - Motor DC + Wheel
 - PS2 Bluetooth 
 
-Skematic:
-![RC.png…]()
