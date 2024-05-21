@@ -7,3 +7,6 @@ Part List:
 - L298N Driver Motor
 - Motor DC + Wheel
 - PS2 Bluetooth 
+
+Skematic:
+![Uploading RC.png…]()
